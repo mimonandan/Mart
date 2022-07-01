@@ -9,6 +9,7 @@
     <link href="../assets/css/easy-responsive-tabs.css" rel="stylesheet" />
     <link href="../assets/css/font-awesome.css" rel="stylesheet" />
     <link href="../assets/css/style.css" rel="stylesheet" />
+    <link href="../assets/css/Gstyle.css" rel="stylesheet" />
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
@@ -565,6 +566,9 @@
     <script src="../assets/js/jquery-2.1.4.min.js"></script>
     <script src="../assets/js/modernizr.custom.js"></script>
     <script src="../assets/js/minicart.min.js"></script>
+    <script src="../assets/js/easing.js"></script>
+    <script src="../assets/js/move-top.js"></script>
+    <script src="../assets/js/bootstrap.js"></script>
 <script>
 	paypal.minicart.render({
 		action: '#'
